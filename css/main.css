@@ -1,0 +1,21 @@
+.intro {
+  color: blue;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.spam {
+  color: red;
+  font-weight: lighter;
+}
+
+.Ghost-Killer {
+  color: #494959;
+  font-family: fantasy;
+  font-size: 90px;
+}
+.RNG {
+  font-variant-ligatures: normal;
+  font-stretch: ultra-condensed;
+  font-variant: small-caps;
+}
